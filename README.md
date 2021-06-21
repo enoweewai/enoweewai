@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/90xa1B6.png"></p>
+<p align="center"><img src="https://i.imgur.com/Y4qfpeV.png"></p>
 <h6 align="center">README v1.0.0</h6>
 
 <h2 align="center"><strong>Francis Ignacio</strong></h2>
