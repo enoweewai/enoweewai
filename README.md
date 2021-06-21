@@ -44,5 +44,29 @@
     </li>
 </ul>
 
-<h6 align="center">README v1.0.1</h6>
+<h2><strong>Programming Languages and Frameworks/Libraries</strong></h2>
+<p> Skill Level: based on number of stars (⭐).</p>
+<ul>
+    <li>HTML5 and CSS3 [⭐⭐⭐]</li>
+    <li>JavaScript [⭐⭐]</li>
+    <li>
+        PHP [⭐]
+        <div> - Laravel [⭐]
+    </li>
+    <li>
+        Python [⭐⭐⭐]
+        <div> - Django [⭐⭐⭐]
+    </li>
+    <li>ReactJS [⭐⭐]</li>
+    <li>
+        SvelteJS [⭐⭐]
+        <div> - Sapper [⭐]
+    </li>
+    <li>
+        NodeJS [⭐⭐]
+        <div> - ExpressJS [⭐⭐]
+    </li>
+</ul>
+
+<h6 align="center">README v1.0.2</h6>
 
