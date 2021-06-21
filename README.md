@@ -1,9 +1,6 @@
 <p align="center"><img src="https://i.imgur.com/Y4qfpeV.png"></p>
-<h6 align="center">README v1.0.0</h6>
-
-<h3 align="center"><strong>Francis Ignacio</strong></h3>
 <h5 align="center"><a href="https://www.facebook.com/noeyignacio">Facebook</a> | <a href="https://www.instagram.com/enoweeway/">Instagram</a> | <a href="https://twitter.com/enoweewai">Twitter</a><h5>
-<h4 align="center">A computer engineer graduated at <strong><a href="https://www.hau.edu.ph/">Holy Angel University</a></strong>, 2020. <br /> I'm 21 years old and currently a videographer/video editor at /user/Name. I'd left programming for at least one and a half year and trying to regain my passion on developing self-projects, awesome ideas and etc. and learn to code again efficiently. <br> I'm currently pursuing to be a <strong><a href="https://www.guru99.com/what-is-backend-developer.html">Backend Developer</a></strong> using <a href="https://www.javascript.com/">JavaScript</a> and <a href="https://www.typescriptlang.org/">TypeScript</a>.</h4>
+<h4 align="center"><strong>Francis Ignacio</strong>, a computer engineer graduated at <strong><a href="https://www.hau.edu.ph/">Holy Angel University</a></strong>, 2020. <br /> I'm 21 years old and currently a videographer/video editor at /user/Name. I'd left programming for at least one and a half year and trying to regain my passion on developing self-projects, awesome ideas and etc. and learn to code again efficiently. <br> I'm currently pursuing to be a <strong><a href="https://www.guru99.com/what-is-backend-developer.html">Backend Developer</a></strong> using <a href="https://www.javascript.com/">JavaScript</a> and <a href="https://www.typescriptlang.org/">TypeScript</a>.</h4>
 
 ---
 
@@ -46,4 +43,6 @@
         <div> - frontend and backend templates (source codes) from my past projects.
     </li>
 </ul>
+
+<h6 align="center">README v1.0.1</h6>
 
