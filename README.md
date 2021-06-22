@@ -4,7 +4,7 @@
 
 ---
 
-<h2><strong>Current Self Projects</strong></h2>
+<h2>🚧 <strong>Self Projects</strong></h2>
 <p> Legends: 🟢 - Finished 🟠 - On Going  🔴 - Unfinished 🟡 - Planning</p>
 <ul>
     <li>
@@ -27,7 +27,23 @@
     </li>
 </ul>
 
-<h2><strong>Current Learning</strong></h2>
+<h2>🚧 <strong>Freelance Projects</strong></h2>
+<p> Legends: 🟢 - Finished 🟠 - On Going  🔴 - Unfinished 🟡 - Planning</p>
+<ul>
+    <li>
+        ICpEP Event Conference International [🟠]
+        <div> - this is a collaboration project with my friend <a href="https://www.facebook.com/paulo.dizon.395" target="_blank">Paulomer Dizon</a>, a <a href="https://frontendmasters.com/books/front-end-handbook/2018/what-is-a-FD.html" target="_blank">Frontend Developer</a>.
+        <ul>
+            <li>
+                Roles
+                <div> Francis Ignacio - Backend, Database Infrastructure and DevOps
+                <div> Paulomer Dizon - Frontend
+            </li>
+        </ul>
+    </li>
+</ul>
+
+<h2>📚 <strong>Learning</strong></h2>
 <ul>
     <li><a href="https://www.javascript.com/" target="_blank">JavaScript</a></li>
     <li><a href="https://www.typescriptlang.org/" target="_blank">TypeScript</a></li>
@@ -36,7 +52,7 @@
     <li><a href="https://www.fastify.io/" target="_blank">Fastify</a></li>
 </ul>
 
-<h2><strong>Current Repositories</strong></h2>
+<h2>🪣 <strong>Repositories</strong></h2>
 <p> Legends: ⚪ - Public  ⚫ - Private 🟤 - Collaboration</p>
 <ul>
     <li>
@@ -45,7 +61,7 @@
     </li>
 </ul>
 
-<h2><strong>Programming Languages and Frameworks/Libraries</strong></h2>
+<h2>💡 <strong>Programming Languages and Frameworks/Libraries</strong></h2>
 <p> Skill Level: based on number of stars (⭐).</p>
 <ul>
     <li>HTML5 and CSS3 [⭐⭐⭐]</li>
@@ -69,5 +85,5 @@
     </li>
 </ul>
 
-<h6 align="center">README v1.1.0</h6>
+<h6 align="center">README v1.1.1</h6>
 
