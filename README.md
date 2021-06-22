@@ -52,7 +52,7 @@
     <li><a href="https://www.fastify.io/" target="_blank">Fastify</a></li>
 </ul>
 
-<h2>🪣 <strong>Repositories</strong></h2>
+<h2>🗑️<strong>Repositories</strong></h2>
 <p> Legends: ⚪ - Public  ⚫ - Private 🟤 - Collaboration</p>
 <ul>
     <li>
