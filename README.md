@@ -52,7 +52,7 @@
     <li><a href="https://www.fastify.io/" target="_blank">Fastify</a></li>
 </ul>
 
-<h2>🗑️<strong>Repositories</strong></h2>
+<h2>🗑️ <strong>Repositories</strong></h2>
 <p> Legends: ⚪ - Public  ⚫ - Private 🟤 - Collaboration</p>
 <ul>
     <li>
@@ -85,5 +85,5 @@
     </li>
 </ul>
 
-<h6 align="center">README v1.1.1</h6>
+<h6 align="center">README v1.1.2</h6>
 
