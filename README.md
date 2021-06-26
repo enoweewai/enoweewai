@@ -8,7 +8,7 @@
 <p> Legends: 🟢 - Finished 🟠 - On Going  🔴 - Unfinished 🟡 - Planning</p>
 <ul>
     <li>
-        Porfolio [🟠]
+        Porfolio 🟠
         <div> - scalable website where we can post all our finish projects.
         <div> - this is a collaboration project with my friend <a href="https://www.facebook.com/paulo.dizon.395" target="_blank">Paulomer Dizon</a>, a <a href="https://frontendmasters.com/books/front-end-handbook/2018/what-is-a-FD.html" target="_blank">Frontend Developer</a>.
         <ul>
@@ -20,10 +20,10 @@
         </ul>
     </li>
     <li>
-        E-Commerce Website [🟡]
+        E-Commerce Website 🟡
     </li>
     <li>
-        Travel Agency Website [🟡]
+        Travel Agency Website 🟡
     </li>
 </ul>
 
@@ -31,7 +31,7 @@
 <p> Legends: 🟢 - Finished 🟠 - On Going  🔴 - Unfinished 🟡 - Planning</p>
 <ul>
     <li>
-        ICpEP Event Conference International [🟠]
+        ICpEP Event Conference International 🟠
         <div> - this is a collaboration project with my friend <a href="https://www.facebook.com/paulo.dizon.395" target="_blank">Paulomer Dizon</a>, a <a href="https://frontendmasters.com/books/front-end-handbook/2018/what-is-a-FD.html" target="_blank">Frontend Developer</a>.
         <ul>
             <li>
@@ -46,44 +46,45 @@
 <h2>📚 <strong>Learning</strong></h2>
 <ul>
     <li><a href="https://www.javascript.com/" target="_blank">JavaScript</a></li>
-    <li><a href="https://www.typescriptlang.org/" target="_blank">TypeScript</a></li>
-    <li><a href="https://typeorm.io/#/" target="_blank">TypeORM</a></li>
-    <li><a href="https://nodejs.org/en/" target="_blank">NodeJS</a></li>
-    <li><a href="https://www.fastify.io/" target="_blank">Fastify</a></li>
+    <li><a href="https://laravel.com/" target="_blank">Laravel</a></li>
+    <li><a href="https://vuejs.org/" target="_blank">VueJS</a></li>
+    <li><a href="https://vuex.vuejs.org/" target="_blank">VueX</a></li>
 </ul>
 
 <h2>🗑️ <strong>Repositories</strong></h2>
 <p> Legends: ⚪ - Public  ⚫ - Private 🟤 - Collaboration</p>
 <ul>
     <li>
-        Templates [⚫]
+        Templates ⚫
         <div> - frontend and backend templates (source codes) from my past projects.
+    </li>
+    <li>
+        ICpEP Event Conference International 🟤 ⚫
+        <div> - <strong>Confidential, still not able to share publicly.</strong>
     </li>
 </ul>
 
 <h2>💡 <strong>Programming Languages and Frameworks/Libraries</strong></h2>
-<p> Skill Level: based on number of stars (⭐).</p>
+<p> Skill Level: Rated based on number of stars ⭐.</p>
 <ul>
-    <li>HTML5 and CSS3 [⭐⭐⭐]</li>
-    <li>JavaScript [⭐⭐]</li>
-    <li>
-        PHP [⭐]
-        <div> - Laravel [⭐]
-    </li>
-    <li>
-        Python [⭐⭐⭐]
-        <div> - Django [⭐⭐⭐]
-    </li>
-    <li>ReactJS [⭐⭐]</li>
-    <li>
-        SvelteJS [⭐⭐]
-        <div> - Sapper [⭐]
-    </li>
-    <li>
-        NodeJS [⭐⭐]
-        <div> - ExpressJS [⭐⭐]
-    </li>
+    <li>Programming Languages</li>
+    <ul>
+        <li>HTML5 and CSS3 ⭐⭐⭐</li>
+        <li>JavaScript ⭐⭐</li>
+        <li>PHP ⭐</li>
+        <li>Python ⭐⭐⭐</li>
+    </ul>
+    <li>Frameworks/Libraries</li>
+    <ul>
+        <li>Laravel ⭐</li>
+        <li>Django ⭐⭐⭐</li>
+        <li>NodeJS ⭐⭐</li>
+        <li>ExpressJS ⭐⭐</li>
+        <li>ReactJS ⭐</li>
+        <li>Svelte ⭐⭐</li>
+        <li>Sapper ⭐</li>
+    </ul>
 </ul>
 
-<h6 align="center">README v1.1.2</h6>
+<h6 align="center">README v1.2.0</h6>
 
