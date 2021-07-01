@@ -1,6 +1,6 @@
 <p align="center"><img src="https://i.imgur.com/Y4qfpeV.png"></p>
-<h5 align="center"><a href="https://www.facebook.com/noeyignacio" target="_blank">Facebook</a> | <a href="https://www.instagram.com/enoweeway/" target="_blank">Instagram</a> | <a href="https://twitter.com/enoweewai" target="_blank">Twitter</a> | <a href="https://github.com/enoweewai" target="_blank">Github</a><h5>
-<h4 align="center"><strong>Francis Ignacio</strong>, a computer engineer graduated at <strong><a href="https://www.hau.edu.ph/ target="_blank"">Holy Angel University</a></strong>, 2020. <br /> I'm 21 years old and currently a videographer/video editor at /user/Name. I'd left programming for at least one and a half year and trying to regain my passion on developing self-projects, awesome ideas and etc. and learn to code again efficiently. <br> I'm currently pursuing to be a <strong><a href="https://www.guru99.com/what-is-backend-developer.html" target="_blank">Backend Developer</a></strong> and <strong><a href="https://searchitoperations.techtarget.com/definition/DevOps">DevOps</a></strong>.</h4>
+<h5 align="center"><a href="https://www.facebook.com/noeyignacio">Facebook</a> | <a href="https://www.instagram.com/enoweeway/">Instagram</a> | <a href="https://twitter.com/enoweewai">Twitter</a> | <a href="https://github.com/enoweewai">Github</a><h5>
+<h4 align="center"><strong>Francis Ignacio</strong>, a computer engineer graduated at <strong><a href="https://www.hau.edu.ph/">Holy Angel University</a></strong>, 2020. <br /> I'm 21 years old and currently a videographer/video editor at /user/Name. I'd left programming for at least one and a half year and trying to regain my passion on developing self-projects, awesome ideas and etc. and learn to code again efficiently. <br> I'm currently pursuing to be a <strong><a href="https://careerfoundry.com/en/blog/web-development/what-is-a-full-stack-web-developer/">Full-Stack Developer</a></strong> and <strong><a href="https://searchitoperations.techtarget.com/definition/DevOps">DevOps</a></strong>.</h4>
 
 ---
 
@@ -10,14 +10,6 @@
     <li>
         Porfolio 🟠
         <div> - scalable website where we can post all our finish projects.
-        <div> - this is a collaboration project with my friend <a href="https://www.facebook.com/paulo.dizon.395" target="_blank">Paulomer Dizon</a>, a <a href="https://frontendmasters.com/books/front-end-handbook/2018/what-is-a-FD.html" target="_blank">Frontend Developer</a>.
-        <ul>
-            <li>
-                Roles
-                <div> Francis Ignacio - Backend, Database Infrastructure and DevOps
-                <div> Paulomer Dizon - Frontend
-            </li>
-        </ul>
     </li>
     <li>
         E-Commerce Website 🟡
@@ -32,7 +24,7 @@
 <ul>
     <li>
         ICpEP Event Conference International 🟠
-        <div> - this is a collaboration project with my friend <a href="https://www.facebook.com/paulo.dizon.395" target="_blank">Paulomer Dizon</a>, a <a href="https://frontendmasters.com/books/front-end-handbook/2018/what-is-a-FD.html" target="_blank">Frontend Developer</a>.
+        <div> - this is a collaboration project with <a href="https://www.facebook.com/paulo.dizon.395">Paulomer Dizon</a>, a <a href="https://frontendmasters.com/books/front-end-handbook/2018/what-is-a-FD.html">Frontend Developer</a>.
         <ul>
             <li>
                 Roles
@@ -45,10 +37,10 @@
 
 <h2>📚 <strong>Learning</strong></h2>
 <ul>
-    <li><a href="https://www.javascript.com/" target="_blank">JavaScript</a></li>
-    <li><a href="https://laravel.com/" target="_blank">Laravel</a></li>
-    <li><a href="https://vuejs.org/" target="_blank">VueJS</a></li>
-    <li><a href="https://vuex.vuejs.org/" target="_blank">VueX</a></li>
+    <li><a href="https://www.javascript.com/">JavaScript</a></li>
+    <li><a href="https://laravel.com/">Laravel</a></li>
+    <li><a href="https://vuejs.org/">VueJS</a></li>
+    <li><a href="https://vuex.vuejs.org/">VueX</a></li>
 </ul>
 
 <h2>🗑️ <strong>Repositories</strong></h2>
@@ -86,5 +78,5 @@
     </ul>
 </ul>
 
-<h6 align="center">README v1.2.0</h6>
+<h6 align="center">README v1.2.1</h6>
 
