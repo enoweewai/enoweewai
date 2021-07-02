@@ -1,10 +1,13 @@
 <p align="center"><img src="https://i.imgur.com/Y4qfpeV.png"></p>
+
 <h5 align="center"><a href="https://www.facebook.com/noeyignacio">Facebook</a> | <a href="https://www.instagram.com/enoweeway/">Instagram</a> | <a href="https://twitter.com/enoweewai">Twitter</a> | <a href="https://github.com/enoweewai">Github</a><h5>
-<h4 align="center"><strong>Francis Ignacio</strong>, a computer engineer graduated at <strong><a href="https://www.hau.edu.ph/">Holy Angel University</a></strong>, 2020. <br /> I'm 21 years old and currently a videographer/video editor at /user/Name. I'd left programming for at least one and a half year and trying to regain my passion on developing self-projects, awesome ideas and etc. and learn to code again efficiently. <br> I'm currently pursuing to be a <strong><a href="https://careerfoundry.com/en/blog/web-development/what-is-a-full-stack-web-developer/">Full-Stack Developer</a></strong> and <strong><a href="https://searchitoperations.techtarget.com/definition/DevOps">DevOps</a></strong>.</h4>
+<h4 align="center"><strong>Francis Ignacio</strong>, a computer engineer graduated at <strong><a href="https://www.hau.edu.ph/">Holy Angel University</a></strong>, 2020. <br /> I'm 21 years old and currently a videographer/video editor at /user/Name. I'd left programming for at least one and a half year and trying to regain my passion on developing self-projects, awesome ideas and etc. and learn to code again efficiently. <br> I'm currently pursuing to be a <strong><a href="https://careerfoundry.com/en/blog/web-development/what-is-a-full-stack-web-developer/">Full-Stack Developer</a></strong> and <strong><a href="https://searchitoperations.techtarget.com/definition/DevOps">DevOps</a></strong>.
+</h4>
+<h6 align="center"><a href="https://github.com/buzzflowph-main">Buzzflow Philippines Main</a> | <a href="https://github.com/buzzflowph-private">Buzzflow Philippines Private</a> <br> Github Organizations<h6>
 
----
+<hr>
 
-<h2>🚧 <strong>Self Projects</strong></h2>
+<h3>🚧 <strong>Projects</strong></h3>
 <p> Legends: 🟢 - Finished 🟠 - On Going  🔴 - Unfinished 🟡 - Planning</p>
 <ul>
     <li>
@@ -19,7 +22,7 @@
     </li>
 </ul>
 
-<h2>🚧 <strong>Freelance Projects</strong></h2>
+<h3>🚧 <strong>Freelance Projects</strong></h3>
 <p> Legends: 🟢 - Finished 🟠 - On Going  🔴 - Unfinished 🟡 - Planning</p>
 <ul>
     <li>
@@ -35,7 +38,7 @@
     </li>
 </ul>
 
-<h2>📚 <strong>Learning</strong></h2>
+<h3>📚 <strong>Learning</strong></h3>
 <ul>
     <li><a href="https://www.javascript.com/">JavaScript</a></li>
     <li><a href="https://laravel.com/">Laravel</a></li>
@@ -43,7 +46,7 @@
     <li><a href="https://vuex.vuejs.org/">VueX</a></li>
 </ul>
 
-<h2>🗑️ <strong>Repositories</strong></h2>
+<h3>🗑️ <strong>Repositories</strong></h3>
 <p> Legends: ⚪ - Public  ⚫ - Private 🟤 - Collaboration</p>
 <ul>
     <li>
@@ -56,7 +59,7 @@
     </li>
 </ul>
 
-<h2>💡 <strong>Programming Languages and Frameworks/Libraries</strong></h2>
+<h3>💡 <strong>Programming Languages and Frameworks/Libraries</strong></h3>
 <p> Skill Level: Rated based on number of stars ⭐.</p>
 <ul>
     <li>Programming Languages</li>
@@ -78,5 +81,5 @@
     </ul>
 </ul>
 
-<h6 align="center">README v1.2.1</h6>
+<h6 align="center">README v1.2.2</h6>
 
