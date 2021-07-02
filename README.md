@@ -82,5 +82,5 @@
     </ul>
 </ul>
 
-<h6 align="center">README v1.2.2</h6>
+<h6 align="center"><strong>README v1.2.3</strong></h6>
 
