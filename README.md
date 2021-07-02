@@ -1,11 +1,12 @@
 <p align="center"><img src="https://i.imgur.com/Y4qfpeV.png"></p>
 
+<h6 align="center"><a href="https://github.com/buzzflowph-main">Buzzflow Philippines Main</a> | <a href="https://github.com/buzzflowph-private">Buzzflow Philippines Private</a> <br> Github Organizations<h6>
+<h6 align="center"><a href="https://www.facebook.com/noeyignacio">Facebook</a> | <a href="https://www.instagram.com/enoweeway/">Instagram</a> | <a href="https://twitter.com/enoweewai">Twitter</a> | <a href="https://github.com/enoweewai">Github</a><br>Social Media Accounts<h6>
+
 <h4 align="center"><strong>Francis Ignacio</strong>, a computer engineer graduated at <strong><a href="https://www.hau.edu.ph/">Holy Angel University</a></strong>, 2020. <br /> I'm 21 years old and currently a videographer/video editor at /user/Name. I'd left programming for at least one and a half year and trying to regain my passion on developing self-projects, awesome ideas and etc. and learn to code again efficiently. <br> I'm currently pursuing to be a <strong><a href="https://careerfoundry.com/en/blog/web-development/what-is-a-full-stack-web-developer/">Full-Stack Developer</a></strong> and <strong><a href="https://searchitoperations.techtarget.com/definition/DevOps">DevOps</a></strong>.
 </h4> <br>
-<h6 align="center"><a href="https://github.com/buzzflowph-main">Buzzflow Philippines Main</a> | <a href="https://github.com/buzzflowph-private">Buzzflow Philippines Private</a> <br> Github Organizations<h6>
-<h6 align="center"><a href="https://www.facebook.com/noeyignacio">Facebook</a> | <a href="https://www.instagram.com/enoweeway/">Instagram</a> | <a href="https://twitter.com/enoweewai">Twitter</a> | <a href="https://github.com/enoweewai">Github</a><br>Social Media Accounts & Personal Links<h6>
 
-<hr>
+
 
 <h3>🚧 <strong>Projects</strong></h3>
 <p> Legends: 🟢 - Finished 🟠 - On Going  🔴 - Unfinished 🟡 - Planning</p>
