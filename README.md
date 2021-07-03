@@ -93,7 +93,7 @@
         <img alt="Chart.js" src="https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=Chart.js&logoColor=white"/>
         <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white"/>
         <img alt="JSON" src="https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=JSON&logoColor=white"/>
-        <img alt="JSON Web Tokens" src="https://img.shields.io/badge/-JSON%20Web%20Tokens-000000?style=flat-square&logo=JSON Web Tokens&logoColor=white"/>
+        <img alt="JSON Web Tokens" src="https://img.shields.io/badge/-JSON%20Web%20Tokens-000000?style=flat-square&logo=JSONWebTokens&logoColor=white"/>
         <img alt="Auth0" src="https://img.shields.io/badge/-Auth0-EB5424?style=flat-square&logo=Auth0&logoColor=white"/>
         <img alt="Twilio" src="https://img.shields.io/badge/-Twilio-F22F46?style=flat-square&logo=Twilio&logoColor=white"/>
         <img alt=Gulp" src="https://img.shields.io/badge/-Gulp-CF4647?style=flat-square&logo=Gulp&logoColor=white"/>
@@ -111,10 +111,10 @@
         <img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?style=flat-square&logo=Brave&logoColor=white"/>
         <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
         <img alt="diagrams.net" src="https://img.shields.io/badge/-diagrams.net-F08705?style=flat-square&logo=diagrams.net&logoColor=white"/>
-        <img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=white"/>
-        <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+        <img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat-square&logo=AdobeXD&logoColor=white"/>
+        <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
         <img alt="PhpStorm" src="https://img.shields.io/badge/-PhpStorm-5F259F?style=flat-square&logo=PhpStorm&logoColor=white"/>
-        <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-Intelli%20IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
+        <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-Intelli%20IDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white"/>
         <img alt="Trello" src="https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=Trello&logoColor=white"/>
     </div>
 <span>

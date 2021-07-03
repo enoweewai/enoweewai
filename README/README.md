@@ -1,10 +1,16 @@
-<h5>DEVOPS</h5>
+<h5>OTHERS</h5>
     <div>
-        <img alt="Google Cloud" src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google Cloud&logoColor=white"/>
-        <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon%20AWS-FF9900?style=flat-square&logo=AmazonAWS&logoColor=white"/>
-        <img alt="Amazon S3" src="https://img.shields.io/badge/-Amazon%20S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/>
-        <img alt="cPanel" src="https://img.shields.io/badge/-cPanel-FF6C2C?style=flat-square&logo=cPanel&logoColor=white"/>
-        <img alt="Namecheap" src="https://img.shields.io/badge/-Namecheap-DE3723?style=flat-square&logo=Namecheap&logoColor=white"/>
-        <img alt="GoDaddy" src="https://img.shields.io/badge/-GoDaddy-1BDBDB?style=flat-square&logo=GoDaddy&logoColor=white"/>
-        <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/>
+        <img alt="Chart.js" src="https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=Chart.js&logoColor=white"/>
+        <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white"/>
+        <img alt="JSON" src="https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=JSON&logoColor=white"/>
+        <img alt="JSON Web Tokens" src="https://img.shields.io/badge/-JSON%20Web%20Tokens-000000?style=flat-square&logo=JSONWebTokens&logoColor=white"/>
+        <img alt="Auth0" src="https://img.shields.io/badge/-Auth0-EB5424?style=flat-square&logo=Auth0&logoColor=white"/>
+        <img alt="Twilio" src="https://img.shields.io/badge/-Twilio-F22F46?style=flat-square&logo=Twilio&logoColor=white"/>
+        <img alt=Gulp" src="https://img.shields.io/badge/-Gulp-CF4647?style=flat-square&logo=Gulp&logoColor=white"/>
+        <img alt=Apache" src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/>
+        <img alt="Nodemon" src="https://img.shields.io/badge/-Nodemon-76D04B?style=flat-square&logo=Nodemon&logoColor=white"/>
+        <img alt="ts-node" src="https://img.shields.io/badge/-TS%20Node-3178C6?style=flat-square&logo=tsnode&logoColor=white"/>
+        <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white"/>
+        <img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white"/>
+        <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white"/>
     </div>
