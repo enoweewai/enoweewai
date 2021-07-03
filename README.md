@@ -18,7 +18,7 @@
     <img alt="React" src="https://img.shields.io/badge/-Personal-EC4646?style=flat-square&logo=git&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/-Freelance-30475E?style=flat-square&logo=git&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/-Collaboration-0E918C?style=flat-square&logo=git&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/-Company-EB6383?style=flat-square&logo=git&logoColor=white"/>
 </p>
 <span align="center">
-<h4>1. Team Portfolio <img alt="React" src="https://img.shields.io/badge/-Collaboration-0E918C?style=flat-square&logo=git&logoColor=white"/></h4>
+<h4><strong>TEAM PORTFOLIO </strong><img alt="React" src="https://img.shields.io/badge/-Collaboration-0E918C?style=flat-square&logo=git&logoColor=white" width="5%"/></h4>
 </span>
 <hr>
 
