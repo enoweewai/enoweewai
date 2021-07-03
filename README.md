@@ -1,12 +1,12 @@
 <p align="center"><img src="https://i.imgur.com/Y4qfpeV.png"></p>
 <p align="center">
-    <a href="https://www.facebook.com/noeyignacio/"><img src="https://img.icons8.com/ios/30/000000/facebook-new.png"/></a>
-    <a href="https://twitter.com/enoweewai"><img src="https://img.icons8.com/ios/30/000000/twitter--v1.png"/></a>
-    <a href="https://www.instagram.com/enoweewai/"><img src="https://img.icons8.com/ios/30/000000/instagram-new--v1.png"/></a>
-    <a href="https://www.tiktok.com/@enoweeway_"><img src="https://img.icons8.com/ios/30/000000/tiktok--v1.png"/></a>
-    <a href="https://github.com/enoweewai"><img src="https://img.icons8.com/ios/30/000000/github--v1.png"/></a>
-    <a href="https://github.com/buzzflowph-main"><img src="https://img.icons8.com/ios/30/000000/repository.png"/></a>
-    <a href="https://github.com/buzzflowph-private"><img src="https://img.icons8.com/ios-filled/30/000000/repository.png"/></a>
+    <a href="https://www.facebook.com/noeyignacio/"><img src="https://img.icons8.com/fluent/30/000000/facebook-new.png"/></a>
+    <a href="https://twitter.com/enoweewai"><img src="https://img.icons8.com/fluent/30/000000/twitter.png"/></a>
+    <a href="https://www.instagram.com/enoweewai/"><img src="https://img.icons8.com/fluent/30/000000/instagram-new.png"/></a>
+    <a href="https://www.tiktok.com/@enoweeway_"><img src="https://img.icons8.com/fluent/30/000000/tiktok.png"/></a>
+    <a href="https://github.com/enoweewai"><img src="https://img.icons8.com/fluent/30/000000/github.png"/></a>
+    <a href="https://github.com/buzzflowph-main"><img src="https://img.icons8.com/fluent/30/000000/repository.png"/></a>
+    <a href="https://github.com/buzzflowph-private"><img src="https://img.icons8.com/fluent/30/000000/repository.png"/></a>
     
 </p>
 
