@@ -57,7 +57,7 @@
 </span>
 <hr />
 
-<span align="center">
+<!-- <span align="center">
     <h3><strong>TECHNOLOGIES</strong></h3>
     <p>
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Francis Ignacio's Streak" src="https://github-readme-streak-stats.herokuapp.com?user=enoweewai&theme=monokai-metallian&hide_border=true&stroke=444444&fire=DA0037&ring=EDEDED" width="60%"/>
@@ -71,7 +71,7 @@
     <p>
         <img alt="Francis Ignacio's Trophies" src="https://github-profile-trophy.vercel.app/?username=enoweewai&no-bg=true&no-frame=true&theme=juicyfresh&rank=SSS,SS,S,AAA,AA,A,B,C&row=1&column=4" width="40%" />
     </p>
-</span>
+</span> -->
 
 
 <h6 align="center"><strong>README v1.3.2</strong></h6>
