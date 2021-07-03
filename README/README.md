@@ -1,13 +1,10 @@
-<h5>TOOLS</h5>
+<h5>DEVOPS</h5>
     <div>
-        <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-        <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-        <img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?style=flat-square&logo=Brave&logoColor=white"/>
-        <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
-        <img alt="diagrams.net" src="https://img.shields.io/badge/-diagrams.net-F08705?style=flat-square&logo=diagrams.net&logoColor=white"/>
-        <img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=white"/>
-        <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
-        <img alt="PhpStorm" src="https://img.shields.io/badge/-PhpStorm-5F259F?style=flat-square&logo=PhpStorm&logoColor=white"/>
-        <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-Intelli%20IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
-        <img alt="Trello" src="https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=Trello&logoColor=white"/>
+        <img alt="Google Cloud" src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google Cloud&logoColor=white"/>
+        <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon%20AWS-FF9900?style=flat-square&logo=AmazonAWS&logoColor=white"/>
+        <img alt="Amazon S3" src="https://img.shields.io/badge/-Amazon%20S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/>
+        <img alt="cPanel" src="https://img.shields.io/badge/-cPanel-FF6C2C?style=flat-square&logo=cPanel&logoColor=white"/>
+        <img alt="Namecheap" src="https://img.shields.io/badge/-Namecheap-DE3723?style=flat-square&logo=Namecheap&logoColor=white"/>
+        <img alt="GoDaddy" src="https://img.shields.io/badge/-GoDaddy-1BDBDB?style=flat-square&logo=GoDaddy&logoColor=white"/>
+        <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/>
     </div>
