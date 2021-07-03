@@ -13,9 +13,16 @@
 </h4>
 <hr>
 
+<h2 align="center"><span>🚧</span>Projects</h2>
+<p align="center">
+    <img alt="React" src="https://img.shields.io/badge/-Personal-EC4646?style=flat-square&logo=git&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/-Freelance-30475E?style=flat-square&logo=git&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/-Collaboration-0E918C?style=flat-square&logo=git&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/-Company-EB6383?style=flat-square&logo=git&logoColor=white"/>
+</p>
+<span align="center">
+<h4>1. Team Portfolio <img alt="React" src="https://img.shields.io/badge/-Collaboration-0E918C?style=flat-square&logo=git&logoColor=white"/></h4>
+</span>
+<hr>
 
-
-<h3 align="center"><strong>Personal Github Stats</strong></h3>
+<h2 align="center"><strong>PERSONAL GITHUB STATS</strong></h2>
 <p align="center">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Francis Ignacio's Streak" src="https://github-readme-streak-stats.herokuapp.com?user=enoweewai&theme=monokai-metallian&hide_border=true&stroke=444444&fire=DA0037&ring=EDEDED" width="60%"/>
 </p>
@@ -26,7 +33,7 @@
     <img alt="Francis Ignacio's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=enoweewai&bg_color=1F222E&color=DA0037&line=F7D766&point=F75D7E&hide_border=true" width="60%" />
 </p>
 <p align="center">
-    <img alt="Francis Ignacio's Trophies" src="https://github-profile-trophy.vercel.app/?username=enoweewai&no-bg=true&no-frame=true&theme=juicyfresh&rank=SSS,SS,S,AAA,AA,A,B,C&row=1&column=4" width="60%" />
+    <img alt="Francis Ignacio's Trophies" src="https://github-profile-trophy.vercel.app/?username=enoweewai&no-bg=true&no-frame=true&theme=juicyfresh&rank=SSS,SS,S,AAA,AA,A,B,C&row=1&column=4" width="40%" />
 </p>
 
 
