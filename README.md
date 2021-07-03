@@ -93,7 +93,7 @@
         <img alt="Chart.js" src="https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=Chart.js&logoColor=white"/>
         <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white"/>
         <img alt="JSON" src="https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=JSON&logoColor=white"/>
-        <img alt="JSON Web Tokens" src="https://img.shields.io/badge/-JSON%20Web%20Tokens-000000?style=flat-square&logo=JSONWebTokens&logoColor=white"/>
+        <img alt="JSON Web Tokens" src="https://img.shields.io/badge/-JSON%20Web%20Tokens-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
         <img alt="Auth0" src="https://img.shields.io/badge/-Auth0-EB5424?style=flat-square&logo=Auth0&logoColor=white"/>
         <img alt="Twilio" src="https://img.shields.io/badge/-Twilio-F22F46?style=flat-square&logo=Twilio&logoColor=white"/>
         <img alt=Gulp" src="https://img.shields.io/badge/-Gulp-CF4647?style=flat-square&logo=Gulp&logoColor=white"/>
@@ -116,7 +116,7 @@
         <img alt="PhpStorm" src="https://img.shields.io/badge/-PhpStorm-5F259F?style=flat-square&logo=PhpStorm&logoColor=white"/>
         <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-Intelli%20IDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white"/>
         <img alt="Trello" src="https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=Trello&logoColor=white"/>
-    </div>
+    </div> 
 <span>
 <hr />
 
