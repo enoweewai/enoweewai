@@ -20,12 +20,12 @@
 <!-- Project Section -->
 <span align="center">
     <h3><span>🏗️ </span>PROJECTS</h3>
-    <table align="center">
+    <table>
         <thead>
             <tr border: none;>
             <td><b>TITLE</b></td>
-            <td><b>STATUS</b></td>
             <td><b>STAGE</b></td>
+            <td><b>TYPE</b></td>
             <td><b>DESCRIPTION</b></td>
             </tr>
         </thead>
@@ -50,10 +50,10 @@
                     <strong>ICPEP INTERNATIONAL CONFERENCE</strong> 
                 </td>
                 <td>
-                    <img alt="BuzzflowPH" src="https://img.shields.io/badge/-BuzzflowPH-FFD31D?style=flat-square&logo=git&logoColor=white"/>
+                    <img alt="Development" src="https://img.shields.io/badge/-Development-FFE194?style=flat-square&logo=stackShare&logoColor=white"/> 
                 </td>
                 <td>
-                    <img alt="Development" src="https://img.shields.io/badge/-Development-FFE194?style=flat-square&logo=stackShare&logoColor=white"/> 
+                    <img alt="BuzzflowPH" src="https://img.shields.io/badge/-BuzzflowPH-FFD31D?style=flat-square&logo=git&logoColor=white"/>
                 </td>
                 <td>
                     <div> - event/conference website for ICpEP Oman Chapter.
