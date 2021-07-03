@@ -9,20 +9,36 @@
     <a href="https://github.com/buzzflowph-main"><img src="https://img.icons8.com/fluent/30/000000/repository.png"/></a>
     <a href="https://github.com/buzzflowph-private"><img src="https://img.icons8.com/fluent/30/000000/repository.png"/></a>
 </p>
-<h4 align="center"><strong>Francis Ignacio</strong> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px"> , a computer engineer from <img src="https://img.icons8.com/color/13/000000/philippines-circular.png"/> <strong>Philippines</strong> graduated at <strong><a href="https://www.hau.edu.ph/">Holy Angel University</a></strong>, 2020. <br /> I'm 21 years old and currently a freelance videographer/video editor for streamers and vloggers. I'd left programming for at least one and a half year and trying to regain my passion on developing self-projects, awesome ideas and etc. and learn to code again efficiently. <br> I'm currently pursuing to be a <strong><a href="https://careerfoundry.com/en/blog/web-development/what-is-a-full-stack-web-developer/">Full-Stack Developer</a></strong> and also <strong><a href="https://searchitoperations.techtarget.com/definition/DevOps">DevOps</a></strong>.
-</h4>
-<hr>
-
 <span align="center">
-    <h2><span>🚧</span>Projects</h2>
-    <p>
-        <img alt="React" src="https://img.shields.io/badge/-Personal-EC4646?style=flat-square&logo=git&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/-Freelance-30475E?style=flat-square&logo=git&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/-Collaboration-0E918C?style=flat-square&logo=git&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/-Company-EB6383?style=flat-square&logo=git&logoColor=white"/>
-    </p>
+    <h4><strong>Francis Ignacio</strong> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px"> , a computer engineer from <img src="https://img.icons8.com/color/13/000000/philippines-circular.png"/> <strong>Philippines</strong> graduated at <strong><a href="https://www.hau.edu.ph/">Holy Angel University</a></strong>, 2020. <br /> I'm 21 years old and currently a freelance videographer/video editor for streamers and vloggers. I'd left programming for at least one and a half year and trying to regain my passion on developing self-projects, awesome ideas and etc. and learn to code again efficiently. <br> I'm currently pursuing to be a <strong><a href="https://careerfoundry.com/en/blog/web-development/what-is-a-full-stack-web-developer/">Full-Stack Developer</a></strong> and also <strong><a href="https://searchitoperations.techtarget.com/definition/DevOps">DevOps</a></strong>.
+    </h4>
 </span>
+<hr />
+
+<!-- Project Section -->
 <span align="center">
-    <h4><strong>TEAM PORTFOLIO </strong><img alt="React" src="https://img.shields.io/badge/-Collaboration-0E918C?style=flat-square&logo=git&logoColor=white" width="10%"/></h4>
-    </span>
-<hr>
+    <h2><span>🚧</span>PROJECTS</h2>
+    <p>
+        <img alt="Personal" src="https://img.shields.io/badge/-Personal-EC4646?style=flat-square&logo=git&logoColor=white"/> <img alt="Freelance" src="https://img.shields.io/badge/-Freelance-30475E?style=flat-square&logo=git&logoColor=white"/> <img alt="Collaboration" src="https://img.shields.io/badge/-Collaboration-0E918C?style=flat-square&logo=git&logoColor=white"/> <img alt="Company" src="https://img.shields.io/badge/-Company-EB6383?style=flat-square&logo=git&logoColor=white"/>
+        <img alt="BuzzflowPH" src="https://img.shields.io/badge/-BuzzflowPH-FFD31D?style=flat-square&logo=git&logoColor=black"/>
+    </p>
+    <p>
+        <img alt="Planning" src="https://img.shields.io/badge/-Planning-66DE93?style=flat-square&logo=stackShare&logoColor=black"/> <img alt="On Going" src="https://img.shields.io/badge/-On%20Going-FFE194?style=flat-square&logo=stackShare&logoColor=black"/> <img alt="Finished" src="https://img.shields.io/badge/-Finished-9EDE73?style=flat-square&logo=stackShare&logoColor=black"/> <img alt="Unfinished" src="https://img.shields.io/badge/-Unfinished-EA2C62?style=flat-square&logo=stackShare&logoColor=white"/>
+    </p>
+    <h4><strong>TEAM PORTFOLIO </strong><img alt="React" src="https://img.shields.io/badge/-Collaboration-0E918C?style=flat-square&logo=git&logoColor=white"/>  <img alt="Planning" src="https://img.shields.io/badge/-Planning-66DE93?style=flat-square&logo=stackShare&logoColor=black"/></h4>
+    <h4>
+        <div> - website where me and the team could post certain projects as a portfolio. 
+        <div> - collaboration with <a href="https://www.facebook.com/paulo.dizon.395">Paulomer Dizon</a>, a Frontend Developer. 
+    </h4>
+    <br />
+    <h4><strong>ICPEP INTERNATIONAL CONFERENCE <img alt="BuzzflowPH" src="https://img.shields.io/badge/-BuzzflowPH-FFD31D?style=flat-square&logo=git&logoColor=black"/> <img alt="On Going" src="https://img.shields.io/badge/-On%20Going-FFE194?style=flat-square&logo=stackShare&logoColor=black"/></h4>
+    <h4>
+        <div> - event/conference website for ICpEP Oman Chapter.
+        <div> - team collaboration with <a href="https://www.facebook.com/EncephalonHAUTBI">Encephalon Holy Angel University - Technology Business Incubator</a> and <a href="#">BuzzflowPH</a>.
+    </h4>
+    <br />
+</span>
+<hr />
 
 <h2 align="center"><strong>PERSONAL GITHUB STATS</strong></h2>
 <p align="center">
