@@ -17,7 +17,7 @@
 
 <!-- Project Section -->
 <span align="center">
-    <h2><span>🚧</span>PROJECTS</h2>
+    <h3><span>🚧</span>PROJECTS</h3>
     <p>
         <img alt="Personal" src="https://img.shields.io/badge/-Personal-EC4646?style=flat-square&logo=git&logoColor=white"/> <img alt="Freelance" src="https://img.shields.io/badge/-Freelance-30475E?style=flat-square&logo=git&logoColor=white"/> <img alt="Collaboration" src="https://img.shields.io/badge/-Collaboration-0E918C?style=flat-square&logo=git&logoColor=white"/> <img alt="Company" src="https://img.shields.io/badge/-Company-EB6383?style=flat-square&logo=git&logoColor=white"/>
         <img alt="BuzzflowPH" src="https://img.shields.io/badge/-BuzzflowPH-FFD31D?style=flat-square&logo=git&logoColor=black"/>
@@ -34,7 +34,7 @@
     <h4><strong>ICPEP INTERNATIONAL CONFERENCE <img alt="BuzzflowPH" src="https://img.shields.io/badge/-BuzzflowPH-FFD31D?style=flat-square&logo=git&logoColor=black"/> <img alt="On Going" src="https://img.shields.io/badge/-On%20Going-FFE194?style=flat-square&logo=stackShare&logoColor=black"/></h4>
     <h4>
         <div> - event/conference website for ICpEP Oman Chapter.
-        <div> - team collaboration with <a href="https://www.facebook.com/EncephalonHAUTBI">Encephalon Holy Angel University - Technology Business Incubator</a> and <a href="#">BuzzflowPH</a>.
+        <div> - team collaboration with <a href="https://www.facebook.com/EncephalonHAUTBI">Encephalon Holy Angel University - Technology Business Incubator</a> and <a href="https://github.com/buzzflowph-main">BuzzflowPH</a>.
     </h4>
     <br />
 </span>
