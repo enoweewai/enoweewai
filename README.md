@@ -239,10 +239,10 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Francis Ignacio's Streak" src="https://github-readme-streak-stats.herokuapp.com?user=enoweewai&theme=monokai-metallian&hide_border=true&stroke=444444&fire=DA0037&ring=EDEDED" width="60%"/>
     </p>
     <p>
-        <img alt="Francis Ignacio's Github Stats" src="https://github-readme-stats.vercel.app/api?username=enoweewai&show_icons=true&count_private=true&theme=bear&hide_border=true&bg_color=1F222E&title_color=F7D766&icon_color=DA0037&text_color=F75D7E" width="60%"/>
+        <img alt="Francis Ignacio's Github Stats" src="https://github-readme-stats.vercel.app/api?username=enoweewai&show_icons=true&count_private=true&theme=bear&hide_border=true&bg_color=1F222E&title_color=F7D766&icon_color=DA0037&text_color=F75D7E&hide_title=true" width="60%"/>
     </p>
     <p>
-        <img alt="Francis Ignacio's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=enoweewai&bg_color=1F222E&color=DA0037&line=F7D766&point=F75D7E&hide_border=true" width="60%" />
+        <img alt="Francis Ignacio's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=enoweewai&bg_color=1F222E&color=DA0037&line=F7D766&point=F75D7E&hide_border=true&hide_title=true&area=true" width="60%" />
     </p>
     <p>
         <img alt="Francis Ignacio's Trophies" src="https://github-profile-trophy.vercel.app/?username=enoweewai&no-bg=true&no-frame=true&theme=juicyfresh&rank=SSS,SS,S,AAA,AA,A,B,C&row=1&column=4" width="40%" />
@@ -254,4 +254,4 @@
 <h4 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=FFC107&center=true&vCenter=true&multiline=true&lines=Buzzflow+Philippines">  
 </h4>
-<h6 align="center"><strong>README v1.3.2</strong></h6>
+<h6 align="center"><strong>README v1.4.1</strong></h6>
