@@ -109,12 +109,10 @@
                     <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
                     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
                     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> 
-                    <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/> 
                     <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white"/>
                     <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white"/> 
                     <img alt="NodeJS" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.JS&logoColor=white"/> 
                     <img alt="NestJS" src="https://img.shields.io/badge/-Nest.jS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/> 
-                    <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white"/>
                     <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
                 </td>
                 <td>
@@ -256,4 +254,4 @@
 <h4 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=FFC107&center=true&vCenter=true&multiline=true&lines=Buzzflow+Philippines">  
 </h4>
-<h6 align="center"><strong>README v1.4.1</strong></h6>
+<h6 align="center"><strong>README v1.4.2</strong></h6>
