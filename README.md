@@ -250,13 +250,12 @@
 </span>
 <hr />
 
-<span align="center">
-    <h3>✔️ TODOIST STATS</h3>
+    
+## ✔️ Todoist Stats
 
 <!-- TODO-IST:START -->
 <!-- TODO-IST:END -->
 
-</span>
 <hr />
 
 <h4 align="center">
