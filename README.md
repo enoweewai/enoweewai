@@ -251,7 +251,7 @@
 <hr />
 
     
-## ✔️ Todoist Stats
+### ✔️ TODOIST STATS
 
 <!-- TODO-IST:START -->
 <!-- TODO-IST:END -->
