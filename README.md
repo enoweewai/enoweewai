@@ -251,8 +251,7 @@
 <hr />
 
     
-### ✔️ TODOIST STATS
-
+<h3><span>✔️ </span><strong>TODOIST</strong></h3>
 <!-- TODO-IST:START -->
 <!-- TODO-IST:END -->
 
