@@ -250,8 +250,19 @@
 </span>
 <hr />
 
+<span align="center">
+    <h3>✔️ TODOIST STATS</h3>
+
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
+
+</span>
+<hr />
 
 <h4 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=FFC107&center=true&vCenter=true&multiline=true&lines=Buzzflow+Philippines">  
 </h4>
+
+
+
 <h6 align="center"><strong>README v1.4.2</strong></h6>
