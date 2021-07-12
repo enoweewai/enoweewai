@@ -182,7 +182,7 @@
                     <img alt="PhpStorm" src="https://img.shields.io/badge/-PhpStorm-5F259F?style=flat-square&logo=PhpStorm&logoColor=white"/>
                     <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white"/>
                     <img alt="Trello" src="https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=Trello&logoColor=white"/>
-                    <img alt="Todoist" src="https://img.shields.io/badge/-Todoiest-E44332?style=flat-square&logo=todoist&logoColor=white"/> 
+                    <img alt="Todoist" src="https://img.shields.io/badge/-Todoist-E44332?style=flat-square&logo=todoist&logoColor=white"/> 
                 </td>
             </tr>
         </tbody>
