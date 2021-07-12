@@ -62,6 +62,21 @@
                     <div> - team collaboration with <a href="https://www.facebook.com/EncephalonHAUTBI">Encephalon Holy Angel University - Technology Business Incubator</a> and <a href="https://github.com/buzzflowph-main">BuzzflowPH</a>.
                 </td>
             </tr>
+            <tr>
+                <td>
+                    <strong>JCORE ACCOUNTING</strong>
+                </td>
+                <td>
+                    <img alt="Development" src="https://img.shields.io/badge/-Development-FFE194?style=flat-square&logo=stackShare&logoColor=white"/>
+                </td>
+                <td>
+                    <img alt="Company" src="https://img.shields.io/badge/-Company-EB6383?style=flat-square&logo=git&logoColor=white"/>
+                </td>
+                <td>
+                    <div> - companies accounting's administration panel.
+                    <div> - team developement with <a href="https://jdevsolution.com/">JDEV IT Business Solution</a>.
+                </td>
+            </tr>
         </tbody>
     </table>
 </span>
@@ -120,12 +135,10 @@
                     <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
                     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
                     <img alt="Thymeleaf" src="https://img.shields.io/badge/-Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/> 
-                    <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/> 
+                    <img alt="Bootstrap4" src="https://img.shields.io/badge/-Bootstrap%204-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/> 
                     <img alt="Semantic UI React" src="https://img.shields.io/badge/-Semantic UI React-35BDB2?style=flat-square&logo=semanticuireact&logoColor=white"/> 
                     <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white"/> 
                     <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white"/> 
-                    <img alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
-                    <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=Vite&logoColor=white"/>
                 </td>
                 <td>
                     <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
@@ -169,11 +182,20 @@
                     <img alt="PhpStorm" src="https://img.shields.io/badge/-PhpStorm-5F259F?style=flat-square&logo=PhpStorm&logoColor=white"/>
                     <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white"/>
                     <img alt="Trello" src="https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=Trello&logoColor=white"/>
+                    <img alt="Todoist" src="https://img.shields.io/badge/-Todoiest-E44332?style=flat-square&logo=todoist&logoColor=white"/> 
                 </td>
             </tr>
         </tbody>
     </table>
     <p align="center"><span>❗ </span><strong>NOTE: </strong>All tools and technologies mentioned above were used on past self and collaborative projects, <br />due to different specifications and as a freelance developer, I'd used to used several technologies. <p>
+    <span align="center">
+    <strong>Currently Studying:</strong>
+    <div>
+        <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white"/> 
+        <img alt="VueJs" src="https://img.shields.io/badge/-Vue%203-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/> 
+        <img alt="Bootstrap5" src="https://img.shields.io/badge/-Bootstrap%205-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/> 
+    </div>
+</span>
 <span>
 <hr />
 
