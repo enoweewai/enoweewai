@@ -15,7 +15,7 @@
 
 <!-- Introduction -->
 <span align="center">
-    <h4><strong>Francis Ignacio</strong> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px"> , a computer engineer from <img src="https://img.icons8.com/color/13/000000/philippines-circular.png"/> <strong>Philippines</strong> graduated at <strong><a href="https://www.hau.edu.ph/">Holy Angel University</a></strong>, 2020. <br /> I'm 21 years old and currently a freelance videographer/video editor for streamers and vloggers. I'd left programming for at least one and a half year and trying to regain my passion on developing self-projects, awesome ideas and etc. and learn to code again efficiently. <br> I'm currently pursuing to be a <strong><a href="https://careerfoundry.com/en/blog/web-development/what-is-a-full-stack-web-developer/">Full-Stack Developer</a></strong> and also <strong><a href="https://searchitoperations.techtarget.com/definition/DevOps">DevOps</a></strong>.
+    <h4><strong>Francis Ignacio</strong> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px"> , a computer engineer from <img src="https://img.icons8.com/color/13/000000/philippines-circular.png"/> <strong>Philippines</strong> graduated at <strong><a href="https://www.hau.edu.ph/">Holy Angel University</a></strong>, 2020. <br /> I'm 21 years old and currently a <a>Full Stack Developer</a> at <a href="https://jdevsolution.com/">JDEV IT Business Solution Incorporated</a>, a total solution provider located at Angeles City, Pampanga, Philippines.
     </h4>
 </span>
 <hr />
