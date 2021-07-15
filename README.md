@@ -74,7 +74,7 @@
                     <img alt="Company" src="https://img.shields.io/badge/-Company-EB6383?style=flat-square&logo=git&logoColor=white"/>
                 </td>
                 <td>
-                    <div> - company's accounting administration panel.
+                    <div> - company accounting administration panel.
                     <div> - team developement with <a href="https://jdevsolution.com/">JDEV IT Business Solution</a>.
                 </td>
             </tr>
@@ -89,7 +89,7 @@
                     <img alt="Company" src="https://img.shields.io/badge/-Company-EB6383?style=flat-square&logo=git&logoColor=white"/>
                 </td>
                 <td>
-                    <div> - company's accounting administration panel.
+                    <div> - company accounting administration panel.
                     <div> - team developement with <a href="https://jdevsolution.com/">JDEV IT Business Solution</a>.
                 </td>
             </tr>
@@ -104,7 +104,7 @@
                     <img alt="Freelance" src="https://img.shields.io/badge/-Freelance-30475E?style=flat-square&logo=git&logoColor=white"/> 
                 </td>
                 <td>
-                    <div> - compmany's website
+                    <div> - company website
                     <div> - collaboration with <a href="#">BuzzflowPH</a>.
                 </td>
             </tr>
