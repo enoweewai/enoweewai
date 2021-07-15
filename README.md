@@ -41,7 +41,7 @@
                     <img alt="Planning" src="https://img.shields.io/badge/-Planning-66DE93?style=flat-square&logo=stackShare&logoColor=white"/>
                 </td>
                 <td>
-                    <img alt="Collaboration" src="https://img.shields.io/badge/-Collaboration-0E918C?style=flat-square&logo=git&logoColor=white"/> 
+                    <img alt="BuzzflowPH" src="https://img.shields.io/badge/-BuzzflowPH-FFD31D?style=flat-square&logo=git&logoColor=white"/> 
                 </td>
                 <td>
                     <div> - website where me and the team could post certain projects as a portfolio. 
@@ -101,7 +101,7 @@
                     <img alt="Planning" src="https://img.shields.io/badge/-Planning-66DE93?style=flat-square&logo=stackShare&logoColor=white"/> 
                 </td>
                 <td>
-                    <img alt="Freelance" src="https://img.shields.io/badge/-Freelance-30475E?style=flat-square&logo=git&logoColor=white"/> 
+                    <img alt="BuzzflowPH" src="https://img.shields.io/badge/-BuzzflowPH-FFD31D?style=flat-square&logo=git&logoColor=white"/>
                 </td>
                 <td>
                     <div> - company website
