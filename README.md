@@ -200,61 +200,6 @@
 <span>
 <hr />
 
-<!-- Repositories -->
-<span align="center">
-    <h3><span>📦 </span>REPOSITORIES</h3>
-    <table>
-        <thead>
-            <tr border: none;>
-            <td><b>TITLE</b></td>
-            <td><b>VISIBILITY</b></td>
-            <td><b>STAGE</b></td>
-            <td><b>TYPE</b></td>
-            <td><b>DESCRIPTION</b></td>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>
-                    <strong>TEMPLATES </strong>
-                </td>
-                <td>
-                    <img alt="Private" src="https://img.shields.io/badge/-Private-444444?style=flat-square&logo=GitHub&logoColor=white"/> 
-                </td>
-                <td>
-                    <img alt="Development" src="https://img.shields.io/badge/-Development-FFE194?style=flat-square&logo=stackShare&logoColor=white"/> 
-                </td>
-                <td>
-                    <img alt="Personal" src="https://img.shields.io/badge/-Personal-EC4646?style=flat-square&logo=git&logoColor=white"/> 
-                </td>
-                <td>
-                    <div> - source codes from past projects, both backend and frontend source code.
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <strong>ICPEP INTERNATIONAL CONFERENCE</strong> 
-                </td>
-                <td>
-                    <img alt="Private" src="https://img.shields.io/badge/-Private-444444?style=flat-square&logo=GitHub&logoColor=white"/> 
-                </td>
-                <td>
-                    <img alt="Development" src="https://img.shields.io/badge/-Development-FFE194?style=flat-square&logo=stackShare&logoColor=white"/> 
-                </td>
-                <td>
-                    <img alt="BuzzflowPH" src="https://img.shields.io/badge/-BuzzflowPH-FFD31D?style=flat-square&logo=git&logoColor=white"/>
-                </td>
-                <td>
-                    <div> - event/conference website for ICpEP Oman Chapter.
-                    <div> - team collaboration with <a href="https://www.facebook.com/EncephalonHAUTBI">Encephalon Holy Angel University - Technology Business Incubator</a> and <a href="https://github.com/buzzflowph-main">BuzzflowPH</a>.
-                </td>
-            </tr>
-        </tbody>
-    </table>
-    <p align="center"><span>❗ </span><strong>NOTE: </strong>Most of my repositories/projects/works are not visible or on private,<br />due to clients' decision. Likewise, they're confidential.<p>
-</span>
-<hr />
-
 <!-- Github Stats -->
 <span align="center">
     <h3><span>📈 </span><strong>PERSONAL GITHUB STATS</strong></h3>
