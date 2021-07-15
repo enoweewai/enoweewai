@@ -98,7 +98,7 @@
                     <strong>TALARIA TRAVEL & TOURS</strong>
                 </td>
                 <td>
-                    <img alt="Development" src="https://img.shields.io/badge/-Development-FFE194?style=flat-square&logo=stackShare&logoColor=white"/>
+                    <img alt="Planning" src="https://img.shields.io/badge/-Planning-66DE93?style=flat-square&logo=stackShare&logoColor=white"/> 
                 </td>
                 <td>
                     <img alt="Freelance" src="https://img.shields.io/badge/-Freelance-30475E?style=flat-square&logo=git&logoColor=white"/> 
