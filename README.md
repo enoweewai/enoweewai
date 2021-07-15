@@ -45,7 +45,7 @@
                 </td>
                 <td>
                     <div> - website where me and the team could post certain projects as a portfolio. 
-                    <div> - collaboration with <a href="https://www.facebook.com/paulo.dizon.395">Paulomer Dizon</a>, a Frontend Developer. 
+                    <div> - collaboration with <a href="#">BuzzflowPH</a>.
                 </td>
             </tr>
             <tr>
@@ -65,7 +65,7 @@
             </tr>
             <tr>
                 <td>
-                    <strong>JCORE ACCOUNTING</strong>
+                    <strong>JCORE ACCOUNTING REST</strong>
                 </td>
                 <td>
                     <img alt="Development" src="https://img.shields.io/badge/-Development-FFE194?style=flat-square&logo=stackShare&logoColor=white"/>
@@ -74,8 +74,38 @@
                     <img alt="Company" src="https://img.shields.io/badge/-Company-EB6383?style=flat-square&logo=git&logoColor=white"/>
                 </td>
                 <td>
-                    <div> - companies accounting's administration panel.
+                    <div> - company's accounting administration panel.
                     <div> - team developement with <a href="https://jdevsolution.com/">JDEV IT Business Solution</a>.
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <strong>JCORE ACCOUNTING UI</strong>
+                </td>
+                <td>
+                    <img alt="Development" src="https://img.shields.io/badge/-Development-FFE194?style=flat-square&logo=stackShare&logoColor=white"/>
+                </td>
+                <td>
+                    <img alt="Company" src="https://img.shields.io/badge/-Company-EB6383?style=flat-square&logo=git&logoColor=white"/>
+                </td>
+                <td>
+                    <div> - company's accounting administration panel.
+                    <div> - team developement with <a href="https://jdevsolution.com/">JDEV IT Business Solution</a>.
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <strong>TALARIA TRAVEL & TOURS</strong>
+                </td>
+                <td>
+                    <img alt="Development" src="https://img.shields.io/badge/-Development-FFE194?style=flat-square&logo=stackShare&logoColor=white"/>
+                </td>
+                <td>
+                    <img alt="Freelance" src="https://img.shields.io/badge/-Freelance-30475E?style=flat-square&logo=git&logoColor=white"/> 
+                </td>
+                <td>
+                    <div> - compmany's website
+                    <div> - collaboration with <a href="#">BuzzflowPH</a>.
                 </td>
             </tr>
         </tbody>
