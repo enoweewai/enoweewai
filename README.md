@@ -155,19 +155,16 @@
                     <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
                     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
                     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> 
-                    <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white"/>
                     <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white"/> 
                     <img alt="NodeJS" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.JS&logoColor=white"/> 
                     <img alt="NestJS" src="https://img.shields.io/badge/-Nest.jS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/> 
-                    <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
                 </td>
                 <td>
                     <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> 
                     <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
                     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
-                    <img alt="Thymeleaf" src="https://img.shields.io/badge/-Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/> 
+                    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> 
                     <img alt="Bootstrap4" src="https://img.shields.io/badge/-Bootstrap%204-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/> 
-                    <img alt="Semantic UI React" src="https://img.shields.io/badge/-Semantic UI React-35BDB2?style=flat-square&logo=semanticuireact&logoColor=white"/> 
                     <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white"/> 
                     <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white"/> 
                 </td>
@@ -210,8 +207,7 @@
                     <img alt="diagrams.net" src="https://img.shields.io/badge/-diagrams.net-F08705?style=flat-square&logo=diagrams.net&logoColor=white"/>
                     <img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat-square&logo=AdobeXD&logoColor=white"/>
                     <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
-                    <img alt="PhpStorm" src="https://img.shields.io/badge/-PhpStorm-5F259F?style=flat-square&logo=PhpStorm&logoColor=white"/>
-                    <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white"/>
+                    <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-0F044C?style=flat-square&logo=IntelliJIDEA&logoColor=white"/>
                     <img alt="Trello" src="https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=Trello&logoColor=white"/>
                     <img alt="Todoist" src="https://img.shields.io/badge/-Todoist-E44332?style=flat-square&logo=todoist&logoColor=white"/> 
                 </td>
@@ -222,8 +218,10 @@
     <span align="center">
     <strong>Currently Studying:</strong>
     <div>
+        <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white"/> 
         <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white"/> 
-        <img alt="VueJs" src="https://img.shields.io/badge/-Vue%203-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/> 
+        <img alt="VueJs" src="https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/> 
+        <img alt="VueX" src="https://img.shields.io/badge/-Vue%20X-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
         <img alt="Bootstrap5" src="https://img.shields.io/badge/-Bootstrap%205-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/> 
     </div>
 </span>
