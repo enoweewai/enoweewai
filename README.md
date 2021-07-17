@@ -15,7 +15,7 @@
 
 <!-- Introduction -->
 <span align="center">
-    <h4><strong>Francis Ignacio</strong> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px"> , a computer engineer from <img src="https://img.icons8.com/color/13/000000/philippines-circular.png"/> <strong>Philippines</strong> graduated at <strong><a href="https://www.hau.edu.ph/">Holy Angel University</a></strong>, 2020. <br /> I'm 21 years old and currently a <a>Full Stack Developer</a> at <a href="https://jdevsolution.com/">JDEV IT Business Solution Incorporated</a> and Freelance Full Stack Developer at <a href="https://www.facebook.com/EncephalonHAUTBI/">Encephalon Holy Angel University - Technology Business Incubator</a> both located at Angeles City, Pampanga, Philippines.
+    <h4><strong>Francis Ignacio</strong> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px"> , a computer engineer from <img src="https://img.icons8.com/color/13/000000/philippines-circular.png"/> <strong>Philippines</strong> graduated at <strong><a href="https://www.hau.edu.ph/">Holy Angel University</a></strong>, 2020. <br /> I'm 21 years old and currently a <a>Full Stack Developer</a> at <a href="https://jdevsolution.com/">JDEV IT Business Solution Incorporated</a> and Freelance Full Stack Developer at <a href="https://www.facebook.com/EncephalonHAUTBI/">Encephalon Holy Angel University - Technology Business Incubator</a> both located at Angeles City, Pampanga, Philippines. <br /> We're currently building a Tech-Startup named <a href="https://www.facebook.com/buzzflowph">BuzzflowPH</a>.
     </h4>
 </span>
 <hr />
@@ -45,7 +45,7 @@
                 </td>
                 <td>
                     <div> - website where me and the team could post certain projects as a portfolio. 
-                    <div> - collaboration with <a href="#">BuzzflowPH</a>.
+                    <div> - collaboration with <a href="https://www.facebook.com/buzzflowph">BuzzflowPH</a>.
                 </td>
             </tr>
             <tr>
@@ -60,7 +60,7 @@
                 </td>
                 <td>
                     <div> - event/conference website for ICpEP Oman Chapter.
-                    <div> - team collaboration with <a href="https://www.facebook.com/EncephalonHAUTBI">Encephalon Holy Angel University - Technology Business Incubator</a> and <a href="https://github.com/buzzflowph-main">BuzzflowPH</a>.
+                    <div> - team collaboration with <a href="https://www.facebook.com/EncephalonHAUTBI">Encephalon Holy Angel University - Technology Business Incubator</a> and <a href="https://www.facebook.com/buzzflowph">BuzzflowPH</a>.
                 </td>
             </tr>
             <tr>
