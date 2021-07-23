@@ -143,6 +143,7 @@
                     <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white"/> 
                     <img alt="NodeJS" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.JS&logoColor=white"/> 
                     <img alt="NestJS" src="https://img.shields.io/badge/-Nest.jS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/> 
+                    <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white"/>
                 </td>
                 <td>
                     <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> 
@@ -175,7 +176,6 @@
                 <td>
                     <img alt="Chart.js" src="https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=Chart.js&logoColor=white"/>
                     <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
-                    <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white"/>
                     <img alt="JSON" src="https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=JSON&logoColor=white"/>
                     <img alt="JSON Web Tokens" src="https://img.shields.io/badge/-JSON%20Web%20Tokens-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
                     <img alt="Auth0" src="https://img.shields.io/badge/-Auth0-EB5424?style=flat-square&logo=Auth0&logoColor=white"/>
