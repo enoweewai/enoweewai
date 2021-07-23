@@ -65,22 +65,7 @@
             </tr>
             <tr>
                 <td>
-                    <strong>JCORE ACCOUNTING REST</strong>
-                </td>
-                <td>
-                    <img alt="Development" src="https://img.shields.io/badge/-Development-FFE194?style=flat-square&logo=stackShare&logoColor=white"/>
-                </td>
-                <td>
-                    <img alt="Company" src="https://img.shields.io/badge/-Company-EB6383?style=flat-square&logo=git&logoColor=white"/>
-                </td>
-                <td>
-                    <div> - company accounting administration panel.
-                    <div> - team developement with <a href="https://jdevsolution.com/">JDEV IT Business Solution</a>.
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <strong>JCORE ACCOUNTING UI</strong>
+                    <strong>LE MANS</strong>
                 </td>
                 <td>
                     <img alt="Development" src="https://img.shields.io/badge/-Development-FFE194?style=flat-square&logo=stackShare&logoColor=white"/>
