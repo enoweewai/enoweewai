@@ -9,7 +9,7 @@
     <a href="https://www.tiktok.com/@enoweeway_"><img src="https://img.icons8.com/fluent/30/000000/tiktok.png"/></a>
     <a href="https://github.com/enoweewai"><img src="https://img.icons8.com/fluent/30/000000/github.png"/></a>
     <a href="https://www.postman.com/Enoweewai"><img src="https://img.icons8.com/dusk/30/000000/postman-api.png"/></a>
-    <a href="https://app.daily.dev/Enoweewai"><img src="https://i.imgur.com/4VNP2in.png"/ style="width: 30px;"></a>
+    <a href="https://app.daily.dev/Enoweewai"><img src="https://i.imgur.com/4VNP2in.png"/ style="width: 10px;"></a>
     <a href="https://github.com/buzzflowph-main"><img src="https://img.icons8.com/fluent/30/000000/repository.png"/></a>
     <a href="https://github.com/buzzflowph-private"><img src="https://img.icons8.com/fluent/30/000000/repository.png"/></a>
 </p>
