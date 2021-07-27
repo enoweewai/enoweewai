@@ -7,8 +7,8 @@
     <a href="https://twitter.com/enoweewai"><img src="https://i.imgur.com/ixvdmQA.png" width="30px"/></a>
     <a href="https://www.instagram.com/enoweewai/"><img src="https://i.imgur.com/aqe9M4P.png" width="30px" /></a>
     <a href="https://www.tiktok.com/@enoweeway_"><img src="https://i.imgur.com/cttFxuG.png" width="30px" /></a>
-    <a href="https://github.com/enoweewai"><img src="https://i.imgur.com/gKlIlyX.png" width="30px"/></a>
-    <a href="https://www.postman.com/Enoweewai"><img src="https://img.icons8.com/dusk/30/000000/postman-api.png"/></a>
+    <a href="https://github.com/enoweewai"><img src="https://i.imgur.com/bXSCjxS.png" width="30px"/></a>
+    <a href="https://www.postman.com/Enoweewai"><img src="https://i.imgur.com/rygJ8xz.png" width="30px"/></a>
     <a href="https://app.daily.dev/Enoweewai"><img src="https://i.imgur.com/4VNP2in.png"/ width="30px"></a>
     <a href="https://github.com/buzzflowph-main"><img src="https://img.icons8.com/fluent/30/000000/repository.png"/></a>
     <a href="https://github.com/buzzflowph-private"><img src="https://img.icons8.com/fluent/30/000000/repository.png"/></a>
@@ -253,4 +253,4 @@
 
 
 
-<h6 align="center"><strong>README v1.5.1</strong></h6>
+<h6 align="center"><strong>README v1.5.3</strong></h6>
