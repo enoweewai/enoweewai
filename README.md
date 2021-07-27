@@ -3,7 +3,7 @@
 <!-- Socials -->
 <p align="center">
     <a href="https://www.linkedin.com/in/noeyignacio/"><img src="https://i.imgur.com/ust5jYY.png" width="30px"/></a>
-    <a href="https://www.facebook.com/noeyignacio/"><img src="https://i.imgur.com/DAFpKVR.png" width="30px"/></a>
+    <a href="https://www.facebook.com/noeyignacio/"><img src="https://i.imgur.com/lW7Ag4a.png" width="30px"/></a>
     <a href="https://twitter.com/enoweewai"><img src="https://img.icons8.com/fluent/30/000000/twitter.png"/></a>
     <a href="https://www.instagram.com/enoweewai/"><img src="https://img.icons8.com/fluent/30/000000/instagram-new.png"/></a>
     <a href="https://www.tiktok.com/@enoweeway_"><img src="https://img.icons8.com/fluent/30/000000/tiktok.png"/></a>
