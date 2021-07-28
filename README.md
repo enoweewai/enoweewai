@@ -244,7 +244,17 @@
 ⏳  Longest streak is 22 days
 <!-- TODO-IST:END -->
 </p>
+<hr />
+    
 
+<h3><span>✔️ </span><strong>Daily Dev Profile</strong></h3>
+<a href="https://app.daily.dev/Enoweewai">
+   <img 
+        src="https://api.daily.dev/devcards/b9d540f86a714fe9aa36cb977770febd.png?r=de1" 
+        width="400" 
+        alt="Francis Ignacio's Dev Card"
+    />
+</a>
 <hr />
 
 <h4 align="center">
