@@ -237,7 +237,7 @@
 
 <h3><span>✔️ </span><strong>TODOIST</strong></h3>
 <p align="center">
-    <!-- TODO-IST:START -->
+<!-- TODO-IST:START -->
 🏆  2,983 Karma Points           
 🌸  Completed 0 tasks today           
 ✅  Completed 495 tasks so far           
@@ -248,15 +248,15 @@
     
 
 <h3><span>🧑‍🔬 </span><strong>Daily Dev Profile</strong></h3>
-<a 
-   href="https://app.daily.dev/Enoweewai"
-   align="center">
-   <img 
-        src="https://api.daily.dev/devcards/b9d540f86a714fe9aa36cb977770febd.png?r=de1" 
-        width="400" 
-        alt="Francis Ignacio's Dev Card"
-    />
-</a>
+<p align="center">   
+    <a href="https://app.daily.dev/Enoweewai">
+       <img 
+            src="https://api.daily.dev/devcards/b9d540f86a714fe9aa36cb977770febd.png?r=de1" 
+            width="200" 
+            alt="Francis Ignacio's Dev Card"
+        />
+    </a>
+</p>
 <hr />
 
 <h4 align="center">
