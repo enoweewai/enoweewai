@@ -207,8 +207,6 @@
     <span align="center">
     <strong>Currently Studying:</strong>
     <div>
-        <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white"/> 
-        <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white"/> 
         <img alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/> 
         <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
         <img alt="TailwindCSS" src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=TailwindCSS&logoColor=white"/> 
@@ -261,9 +259,9 @@
 <hr />
 
 <h4 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=FFC107&center=true&vCenter=true&multiline=true&lines=Buzzflow+Philippines+Main">  
+    <img src="https://readme-typing-svg.herokuapp.com?color=FFC107&center=true&vCenter=true&multiline=true&lines=Buzzflow+Philippines">  
 </h4>
 
 
 
-<h6 align="center"><strong>README v1.5.3</strong></h6>
+<h6 align="center"><strong>README v1.6.3</strong></h6>
