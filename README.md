@@ -154,7 +154,7 @@
                     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> 
                     <img alt="Bootstrap4" src="https://img.shields.io/badge/-Bootstrap%204-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/> 
                     <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white"/> 
-                    <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white"/> 
+                    <img alt="React" src="https://img.shields.io/badge/-React%20JS-61DAFB?style=flat-square&logo=React&logoColor=white"/> 
                     <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white"/> 
                     <img alt="Sapper" src="https://img.shields.io/badge/-Sapper-189794?style=flat-square&logo=svelte&logoColor=white"/> 
                 </td>
