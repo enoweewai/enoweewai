@@ -143,8 +143,8 @@
                     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
                     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> 
                     <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white"/> 
-                    <img alt="NodeJS" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.JS&logoColor=white"/> 
-                    <img alt="NestJS" src="https://img.shields.io/badge/-Nest.jS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/> 
+                    <img alt="NodeJS" src="https://img.shields.io/badge/-Node%20JS-339933?style=flat-square&logo=Node.JS&logoColor=white"/> 
+                    <img alt="NestJS" src="https://img.shields.io/badge/-Nest%20JS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/> 
                     <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white"/>
                 </td>
                 <td>
@@ -207,8 +207,8 @@
     <span align="center">
     <strong>Currently Studying:</strong>
     <div>
-        <img alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/> 
-        <img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt%20Js-00C58E?style=flat-square&logo=Nuxt.js&logoColor=white"/> 
+        <img alt="Vue" src="https://img.shields.io/badge/-Vue%20JS-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/> 
+        <img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt%20JS-00C58E?style=flat-square&logo=Nuxt.js&logoColor=white"/> 
         <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
         <img alt="TailwindCSS" src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=TailwindCSS&logoColor=white"/> 
     </div>
