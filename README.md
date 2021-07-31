@@ -17,7 +17,7 @@
 
 <!-- Introduction -->
 <span align="center">
-    <h4><strong>Francis Ignacio</strong> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px"> , a computer engineer from <img src="https://img.icons8.com/color/13/000000/philippines-circular.png"/> <strong>Philippines</strong> graduated at <strong><a href="https://www.hau.edu.ph/">Holy Angel University</a></strong>, 2020. <br /> I'm 21 years old and currently a <a>Junior Full Stack Developer</a> at <a href="https://jdevsolution.com/">JDEV Office Solution Incorporated</a> and Freelance Full Stack Developer at <a href="https://www.facebook.com/EncephalonHAUTBI/">Encephalon Holy Angel University - Technology Business Incubator</a> both located at Angeles City, Pampanga, Philippines. <br /> I'm an aspiring Blockchain Developer.
+    <h4><strong>Francis Ignacio</strong> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px"> , a computer engineer from <img src="https://img.icons8.com/color/13/000000/philippines-circular.png"/> <strong>Philippines</strong> graduated at <strong><a href="https://www.hau.edu.ph/">Holy Angel University</a></strong>, 2020. <br /> I'm 21 years old and currently a <a>Junior Full Stack Developer</a> at <a href="https://jdevsolution.com/">JDEV Office Solution Incorporated</a> and Freelance Full Stack Developer at <a href="https://www.facebook.com/EncephalonHAUTBI/">Encephalon Holy Angel University - Technology Business Incubator</a> both located at Angeles City, Pampanga, Philippines.
     </h4>
 </span>
 <hr />
@@ -173,7 +173,7 @@
                     <img alt="Namecheap" src="https://img.shields.io/badge/-Namecheap-DE3723?style=flat-square&logo=Namecheap&logoColor=white"/>
                     <img alt="GoDaddy" src="https://img.shields.io/badge/-GoDaddy-1BDBDB?style=flat-square&logo=GoDaddy&logoColor=white"/>
                     <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/>
-                    <img alt=Apache" src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/>
+                    <img alt="Apache" src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/>
                 </td>
                 <td>
                     <img alt="Chart.js" src="https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=Chart.js&logoColor=white"/>
@@ -182,7 +182,7 @@
                     <img alt="JSON Web Tokens" src="https://img.shields.io/badge/-JSON%20Web%20Tokens-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
                     <img alt="Auth0" src="https://img.shields.io/badge/-Auth0-EB5424?style=flat-square&logo=Auth0&logoColor=white"/>
                     <img alt="Twilio" src="https://img.shields.io/badge/-Twilio-F22F46?style=flat-square&logo=Twilio&logoColor=white"/>
-                    <img alt=Gulp" src="https://img.shields.io/badge/-Gulp-CF4647?style=flat-square&logo=Gulp&logoColor=white"/>
+                    <img alt="Gulp" src="https://img.shields.io/badge/-Gulp-CF4647?style=flat-square&logo=Gulp&logoColor=white"/>
                     <img alt="Nodemon" src="https://img.shields.io/badge/-Nodemon-76D04B?style=flat-square&logo=Nodemon&logoColor=white"/>
                     <img alt="ts-node" src="https://img.shields.io/badge/-TS%20Node-3178C6?style=flat-square&logo=tsnode&logoColor=white"/>
                     <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white"/>
@@ -210,8 +210,7 @@
         <img alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/> 
         <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
         <img alt="TailwindCSS" src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=TailwindCSS&logoColor=white"/> 
-        <img alt="Ethereum" src="https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=Ethereum&logoColor=white"/> 
-        <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=Solidity&logoColor=white"/>
+        <img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt%20Js-00C58E?style=flat-square&logo=Nuxt.js&logoColor=white"/> 
     </div>
 </span>
 <span>
