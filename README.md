@@ -208,9 +208,9 @@
     <strong>Currently Studying:</strong>
     <div>
         <img alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/> 
+        <img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt%20Js-00C58E?style=flat-square&logo=Nuxt.js&logoColor=white"/> 
         <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
         <img alt="TailwindCSS" src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=TailwindCSS&logoColor=white"/> 
-        <img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt%20Js-00C58E?style=flat-square&logo=Nuxt.js&logoColor=white"/> 
     </div>
 </span>
 <span>
