@@ -190,6 +190,7 @@
                     <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white"/>
                 </td>
                 <td>
+                    <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
                     <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
                     <img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?style=flat-square&logo=Brave&logoColor=white"/>
                     <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
@@ -265,4 +266,4 @@
 
 
 
-<h6 align="center"><strong>README v1.6.3</strong></h6>
+<h6 align="center"><strong>README v1.6.5</strong></h6>
