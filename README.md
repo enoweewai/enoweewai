@@ -261,7 +261,7 @@
 <hr />
 
 <h4 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=FFC107&center=true&vCenter=true&multiline=true&lines=Buzzflow+Philippines">  
+    <img src="https://readme-typing-svg.herokuapp.com?color=FFC107&center=true&vCenter=true&multiline=true&lines=Kooest+Philippines">  
 </h4>
 
 
