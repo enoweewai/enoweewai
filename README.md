@@ -252,7 +252,7 @@
 <p align="center">   
     <a href="https://app.daily.dev/Enoweewai">
        <img 
-            src="https://api.daily.dev/devcards/b9d540f86a714fe9aa36cb977770febd.png?r=ji3" 
+            src="https://api.daily.dev/devcards/b9d540f86a714fe9aa36cb977770febd.png?r=jrj" 
             width="300" 
             alt="Francis Ignacio's Dev Card"
         />
