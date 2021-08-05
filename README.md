@@ -228,9 +228,9 @@
 <!--     <p>
         <img alt="Francis Ignacio's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=enoweewai&bg_color=1F222E&color=DA0037&line=F7D766&point=F75D7E&hide_border=true&hide_title=true&area=true" width="60%" />
     </p> -->
-    <p>
+<!--     <p>
         <img alt="Francis Ignacio's Trophies" src="https://github-profile-trophy.vercel.app/?username=enoweewai&no-bg=true&no-frame=true&theme=juicyfresh&rank=SSS,SS,S,AAA,AA,A,B,C&row=1&column=4" width="40%" />
-    </p>
+    </p> -->
 </span>
 <hr />
 
