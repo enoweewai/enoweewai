@@ -225,9 +225,9 @@
 <!--     <p>
         <img alt="Francis Ignacio's Github Stats" src="https://github-readme-stats.vercel.app/api?username=enoweewai&show_icons=true&count_private=true&theme=bear&hide_border=true&bg_color=1F222E&title_color=F7D766&icon_color=DA0037&text_color=F75D7E&hide_title=true" width="60%"/>
     </p> -->
-    <p>
+<!--     <p>
         <img alt="Francis Ignacio's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=enoweewai&bg_color=1F222E&color=DA0037&line=F7D766&point=F75D7E&hide_border=true&hide_title=true&area=true" width="60%" />
-    </p>
+    </p> -->
     <p>
         <img alt="Francis Ignacio's Trophies" src="https://github-profile-trophy.vercel.app/?username=enoweewai&no-bg=true&no-frame=true&theme=juicyfresh&rank=SSS,SS,S,AAA,AA,A,B,C&row=1&column=4" width="40%" />
     </p>
