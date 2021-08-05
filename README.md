@@ -22,7 +22,7 @@
 <hr />
 
 <!-- Project Section -->
-<span align="center">
+<!-- <span align="center">
     <h3><span>🏗️ </span>PROJECTS</h3>
     <table>
         <thead>
@@ -96,7 +96,7 @@
             </tr>
         </tbody>
     </table>
-</span>
+</span> -->
 
 <!-- Legends -->
 <!-- 
