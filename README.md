@@ -235,7 +235,7 @@
 <hr />
 
 
-<h3><span>✔️ </span><strong>TODOIST</strong></h3>
+<h3><span align="center">✔️ </span><strong>TODOIST</strong></h3>
 <p align="center">
 <!-- TODO-IST:START -->
 🏆  3,223 Karma Points           
