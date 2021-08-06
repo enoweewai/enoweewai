@@ -121,7 +121,7 @@
 <hr />
 
 <!-- Technolgies -->
-<!-- <span align="center">
+<span align="center">
 <h3><span>💠 </span>TECHNOLOGIES</h3>
 <span >
     <table>
@@ -214,7 +214,7 @@
     </div>
 </span>
 <span>
-<hr /> -->
+<hr />
 
 <!-- Github Stats -->
 <span align="center">
