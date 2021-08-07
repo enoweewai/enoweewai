@@ -143,7 +143,6 @@
                     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> 
                     <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white"/> 
                     <img alt="NodeJS" src="https://img.shields.io/badge/-Node%20JS-339933?style=flat-square&logo=Node.JS&logoColor=white"/> 
-                    <img alt="NestJS" src="https://img.shields.io/badge/-Nest%20JS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/> 
                     <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white"/>
                 </td>
                 <td>
@@ -155,7 +154,6 @@
                     <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white"/> 
                     <img alt="React" src="https://img.shields.io/badge/-React%20JS-61DAFB?style=flat-square&logo=React&logoColor=white"/> 
                     <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white"/> 
-                    <img alt="Sapper" src="https://img.shields.io/badge/-Sapper-189794?style=flat-square&logo=svelte&logoColor=white"/> 
                 </td>
                 <td>
                     <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
@@ -165,14 +163,11 @@
                 </td>
                 <td>
                     <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-                    <img alt="Google Cloud" src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white"/>
                     <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon%20AWS-FF9900?style=flat-square&logo=AmazonAWS&logoColor=white"/>
                     <img alt="Amazon S3" src="https://img.shields.io/badge/-Amazon%20S3-569A31?style=flat-square&logo=AmazonS3&logoColor=white"/>
-                    <img alt="cPanel" src="https://img.shields.io/badge/-cPanel-FF6C2C?style=flat-square&logo=cPanel&logoColor=white"/>
                     <img alt="Namecheap" src="https://img.shields.io/badge/-Namecheap-DE3723?style=flat-square&logo=Namecheap&logoColor=white"/>
                     <img alt="GoDaddy" src="https://img.shields.io/badge/-GoDaddy-1BDBDB?style=flat-square&logo=GoDaddy&logoColor=white"/>
                     <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/>
-                    <img alt="Apache" src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/>
                 </td>
                 <td>
                     <img alt="Chart.js" src="https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=Chart.js&logoColor=white"/>
@@ -265,4 +260,4 @@
 
 
 
-<h6 align="center"><strong>README v1.6.5</strong></h6>
+<h6 align="center"><strong>README v1.6.8</strong></h6>
