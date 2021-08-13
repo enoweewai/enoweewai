@@ -255,7 +255,7 @@
 <hr /> -->
 
 <h4 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=FFC107&center=true&vCenter=true&multiline=true&lines=Kooest+Philippines">  
+    <a href="https://www.facebook.com/kooestph"><img src="https://readme-typing-svg.herokuapp.com?color=FFC107&center=true&vCenter=true&multiline=true&lines=Kooest+Philippines"></a>
 </h4>
 
 
