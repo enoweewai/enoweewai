@@ -212,11 +212,11 @@
 <hr />
 
 <!-- Github Stats -->
-<span align="center">
+<!-- <span align="center">
     <h3><span>📈 </span><strong>PERSONAL GITHUB STATS</strong></h3>
     <p>
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Francis Ignacio's Streak" src="https://github-readme-streak-stats.herokuapp.com?user=enoweewai&theme=monokai-metallian&hide_border=true&stroke=444444&fire=DA0037&ring=EDEDED" width="60%"/>
-    </p>
+    </p> -->
 <!--     <p>
         <img alt="Francis Ignacio's Github Stats" src="https://github-readme-stats.vercel.app/api?username=enoweewai&show_icons=true&count_private=true&theme=bear&hide_border=true&bg_color=1F222E&title_color=F7D766&icon_color=DA0037&text_color=F75D7E&hide_title=true" width="60%"/>
     </p> -->
@@ -226,8 +226,8 @@
 <!--     <p>
         <img alt="Francis Ignacio's Trophies" src="https://github-profile-trophy.vercel.app/?username=enoweewai&no-bg=true&no-frame=true&theme=juicyfresh&rank=SSS,SS,S,AAA,AA,A,B,C&row=1&column=4" width="40%" />
     </p> -->
-</span>
-<hr />
+<!-- </span> -->
+<!-- <hr /> -->
 
 
 <h3><span align="center">✔️ </span><strong>TODOIST</strong></h3>
