@@ -242,7 +242,7 @@
 <hr />
     
 
-<h3><span>👩‍💻 </span><strong>Daily Dev Profile</strong></h3>
+<!-- <h3><span>👩‍💻 </span><strong>Daily Dev Profile</strong></h3>
 <p align="center">   
     <a href="https://app.daily.dev/Enoweewai">
        <img 
@@ -252,7 +252,7 @@
         />
     </a>
 </p>
-<hr />
+<hr /> -->
 
 <h4 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=FFC107&center=true&vCenter=true&multiline=true&lines=Kooest+Philippines">  
