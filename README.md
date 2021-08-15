@@ -121,10 +121,10 @@
 <hr />
 
 <!-- Technolgies -->
-<span align="center">
+<!-- <span align="center">
 <h3><span>💠 </span>TECHNOLOGIES</h3>
-<span >
-    <table>
+<span> -->
+<!--     <table>
         <thead align="center">
             <tr border: none;>
             <td><b>BACKEND</b></td>
@@ -197,19 +197,19 @@
                 </td>
             </tr>
         </tbody>
-    </table>
-    <p align="center"><span>❗ </span><strong>NOTE: </strong>All tools and technologies mentioned above were used on past self and collaborative projects, <br />due to different specifications and as a freelance developer, I'd used to used several technologies. <p>
-    <span align="center">
-    <strong>Currently Studying:</strong>
-    <div>
-        <img alt="Vue" src="https://img.shields.io/badge/-Vue%20JS-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/> 
-        <img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt%20JS-00C58E?style=flat-square&logo=Nuxt.js&logoColor=white"/> 
-        <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-        <img alt="TailwindCSS" src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=TailwindCSS&logoColor=white"/> 
-    </div>
-</span>
-<span>
-<hr />
+    </table> -->
+<!--     <p align="center"><span>❗ </span><strong>NOTE: </strong>All tools and technologies mentioned above were used on past self and collaborative projects, <br />due to different specifications and as a freelance developer, I'd used to used several technologies. <p> -->
+<!--     <span align="center">
+        <strong>Currently Studying:</strong>
+        <div>
+            <img alt="Vue" src="https://img.shields.io/badge/-Vue%20JS-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/> 
+            <img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt%20JS-00C58E?style=flat-square&logo=Nuxt.js&logoColor=white"/> 
+            <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+            <img alt="TailwindCSS" src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=TailwindCSS&logoColor=white"/> 
+        </div>
+    </span> -->
+<!-- <span> -->
+<!-- <hr /> -->
 
 <!-- Github Stats -->
 <!-- <span align="center">
@@ -230,7 +230,7 @@
 <!-- <hr /> -->
 
 
-<h3><span align="center">✔️ </span><strong>TODOIST</strong></h3>
+<h3 align="center"><span>✔️ </span><strong>TODOIST</strong></h3>
 <p align="center">
 <!-- TODO-IST:START -->
 🏆  3,223 Karma Points           
@@ -260,4 +260,4 @@
 
 
 
-<h6 align="center"><strong>README v1.6.8</strong></h6>
+<h6 align="center"><strong>README v1.7.2</strong></h6>
