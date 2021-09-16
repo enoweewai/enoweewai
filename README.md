@@ -9,8 +9,8 @@
     <a href="https://www.facebook.com/noeyignacio/"><img src="https://i.imgur.com/I3Juk1j.png" width="30px"/></a>
     <a href="https://www.facebook.com/kooestph"><img src="https://i.imgur.com/vuSmALN.png" width="30px"/></a>
     <a href="https://github.com/enoweewai"><img src="https://i.imgur.com/bXSCjxS.png" width="30px"/></a>
-    <a href="https://www.postman.com/Enoweewai"><img src="https://i.imgur.com/rygJ8xz.png" width="30px"/></a>
-    <a href="https://app.daily.dev/Enoweewai"><img src="https://i.imgur.com/4VNP2in.png"/ width="30px"></a>
+<!--     <a href="https://www.postman.com/Enoweewai"><img src="https://i.imgur.com/rygJ8xz.png" width="30px"/></a> -->
+<!--     <a href="https://app.daily.dev/Enoweewai"><img src="https://i.imgur.com/4VNP2in.png"/ width="30px"></a> -->
     <a href="https://github.com/kooest-philippines"><img src="https://i.imgur.com/v5FVfdA.png" width="30px"/></a>
 </p>
 
