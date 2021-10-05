@@ -5,8 +5,8 @@
     <a href="https://www.linkedin.com/in/noeyignacio/"><img src="https://i.imgur.com/ust5jYY.png" width="30px"/></a>
     <a href="https://twitter.com/enoweewai"><img src="https://i.imgur.com/ixvdmQA.png" width="30px"/></a>
     <a href="https://www.instagram.com/enoweewai/"><img src="https://i.imgur.com/aqe9M4P.png" width="30px" /></a>
-    <a href="https://dev.to/enoweewai"><img src="https://i.imgur.com/A7PCKrc.png" width="30px"/></a>
-    <a href="https://www.facebook.com/noeyignacio/"><img src="https://i.imgur.com/I3Juk1j.png" width="30px"/></a>
+<!--     <a href="https://dev.to/enoweewai"><img src="https://i.imgur.com/A7PCKrc.png" width="30px"/></a> -->
+<!--     <a href="https://www.facebook.com/noeyignacio/"><img src="https://i.imgur.com/I3Juk1j.png" width="30px"/></a> -->
     <a href="https://www.facebook.com/kooestph"><img src="https://i.imgur.com/vuSmALN.png" width="30px"/></a>
     <a href="https://github.com/enoweewai"><img src="https://i.imgur.com/bXSCjxS.png" width="30px"/></a>
 <!--     <a href="https://www.postman.com/Enoweewai"><img src="https://i.imgur.com/rygJ8xz.png" width="30px"/></a> -->
@@ -260,4 +260,4 @@
 
 
 
-<h6 align="center"><strong>README v1.7.2</strong></h6>
+<h6 align="center"><strong>README v1.8.1</strong></h6>
