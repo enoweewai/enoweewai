@@ -2,21 +2,21 @@
 
 <!-- Socials -->
 <p align="center">
-    <a href="https://www.linkedin.com/in/noeyignacio/"><img src="https://i.imgur.com/ust5jYY.png" width="30px"/></a>
-    <a href="https://twitter.com/enoweewai"><img src="https://i.imgur.com/ixvdmQA.png" width="30px"/></a>
-    <a href="https://www.instagram.com/enoweewai/"><img src="https://i.imgur.com/aqe9M4P.png" width="30px" /></a>
+<!--     <a href="https://www.linkedin.com/in/noeyignacio/"><img src="https://i.imgur.com/ust5jYY.png" width="30px"/></a> -->
+<!--     <a href="https://twitter.com/enoweewai"><img src="https://i.imgur.com/ixvdmQA.png" width="30px"/></a> -->
+<!--     <a href="https://www.instagram.com/enoweewai/"><img src="https://i.imgur.com/aqe9M4P.png" width="30px" /></a> -->
 <!--     <a href="https://dev.to/enoweewai"><img src="https://i.imgur.com/A7PCKrc.png" width="30px"/></a> -->
 <!--     <a href="https://www.facebook.com/noeyignacio/"><img src="https://i.imgur.com/I3Juk1j.png" width="30px"/></a> -->
-    <a href="https://www.facebook.com/kooestph"><img src="https://i.imgur.com/vuSmALN.png" width="30px"/></a>
-    <a href="https://github.com/enoweewai"><img src="https://i.imgur.com/bXSCjxS.png" width="30px"/></a>
+<!--     <a href="https://www.facebook.com/kooestph"><img src="https://i.imgur.com/vuSmALN.png" width="30px"/></a> -->
+<!--     <a href="https://github.com/enoweewai"><img src="https://i.imgur.com/bXSCjxS.png" width="30px"/></a> -->
 <!--     <a href="https://www.postman.com/Enoweewai"><img src="https://i.imgur.com/rygJ8xz.png" width="30px"/></a> -->
 <!--     <a href="https://app.daily.dev/Enoweewai"><img src="https://i.imgur.com/4VNP2in.png"/ width="30px"></a> -->
-    <a href="https://github.com/kooest-philippines"><img src="https://i.imgur.com/v5FVfdA.png" width="30px"/></a>
+<!--     <a href="https://github.com/kooest-philippines"><img src="https://i.imgur.com/v5FVfdA.png" width="30px"/></a> -->
 </p>
 
 <!-- Introduction -->
 <span align="center">
-    <h4><strong>Francis Ignacio</strong>, a computer engineer from <img src="https://img.icons8.com/color/13/000000/philippines-circular.png"/> <strong>Philippines</strong> graduated at <strong><a href="https://www.hau.edu.ph/">Holy Angel University</a></strong>, 2020. <br /> I'm 22 years old and currently a <a>Technical Associate</a> at <a>KITTO, a DOST funded research project at <a href="https://www.hau.edu.ph/">Holy Angel University</a> </a> and Freelance Fullstack Developer at <a href="https://www.facebook.com/EncephalonHAUTBI/">Encephalon Holy Angel University - Technology Business Incubator</a> both located at Angeles City, Pampanga, Philippines.
+    <h4><strong>Francis Ignacio</strong>, a computer engineer from <img src="https://img.icons8.com/color/13/000000/philippines-circular.png"/> <strong>Philippines</strong> graduated at <strong><a href="https://www.hau.edu.ph/">Holy Angel University</a></strong>, 2020. <br /> I'm 22 years old and currently a <a>Technical Associate</a> at <a>KITTO, a DOST funded research project at <a href="https://www.hau.edu.ph/">Holy Angel University</a> </a> located at Angeles City, Pampanga, Philippines.
     </h4>
 </span>
 <!-- <hr /> -->
@@ -228,18 +228,6 @@
     </p> -->
 <!-- </span> -->
 <!-- <hr /> -->
-
-
-<h3 align="center"><span>✔️ </span><strong>TODOIST</strong></h3>
-<p align="center">
-<!-- TODO-IST:START -->
-🏆  3,607 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 610 tasks so far           
-⏳  Longest streak is 23 days
-<!-- TODO-IST:END -->
-</p>
-<hr />
     
 
 <!-- <h3><span>👩‍💻 </span><strong>Daily Dev Profile</strong></h3>
@@ -254,10 +242,10 @@
 </p>
 <hr /> -->
 
-<h4 align="center">
+<!-- <h4 align="center">
     <a href="https://www.facebook.com/kooestph"><img src="https://readme-typing-svg.herokuapp.com?color=FFC107&center=true&vCenter=true&multiline=true&lines=Kooest+Philippines"></a>
-</h4>
+</h4> -->
 
 
 
-<h6 align="center"><strong>README v1.8.2</strong></h6>
+<!-- <h6 align="center"><strong>README v1.8.2</strong></h6> -->
